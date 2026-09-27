@@ -297,7 +297,75 @@ body {
 .result-banner { background: #eaf4ef; border-color: #c7e0d7; }
 .site-footer { border-color: rgba(2,26,37,.16); }
 
+/* Homepage: bring the older mockup's confident ink-and-coral opening into Good Company. */
+.home-hero {
+  position: relative;
+  isolation: isolate;
+  padding: 38px;
+  border-radius: 28px;
+  background:
+    radial-gradient(ellipse at 76% 7%, rgba(103,173,172,.19), transparent 26rem),
+    linear-gradient(135deg, #021a25 0%, #092c36 100%);
+  color: var(--paper);
+  overflow: hidden;
+  box-shadow: 0 20px 52px rgba(2,26,37,.15);
+}
+.home-hero:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  width: 320px;
+  height: 120px;
+  right: -112px;
+  bottom: -65px;
+  border: 2px solid rgba(254,102,77,.55);
+  border-radius: 50%;
+  transform: rotate(-22deg);
+}
+.home-hero .eyebrow { color: #8fc9c2; }
+.home-hero h1 { color: var(--paper); }
+.home-hero h1 span { color: var(--coral); }
+.home-hero .hero-copy p { color: #d7e0dc; }
+.home-hero .hero-copy:after { border-color: var(--teal); }
+.home-hero .hero-art {
+  background: var(--paper);
+  min-height: 340px;
+  border-radius: 24px;
+  box-shadow: 0 12px 28px rgba(0,0,0,.18);
+}
+.home-hero .hero-art:before {
+  background: linear-gradient(145deg, rgba(254,102,77,.22), rgba(103,173,172,.26));
+}
+.home-hero .hero-art-caption { color: var(--ink); }
+.home-hero .btn-secondary {
+  border-color: rgba(251,247,239,.68);
+  color: var(--paper);
+  box-shadow: none;
+}
+.home-hero .btn-secondary:hover { background: rgba(251,247,239,.12); }
+.hero-proof {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin-top: 17px;
+  color: #c2d1cf;
+  font-size: 12px;
+}
+.hero-proof i { color: var(--coral); font-style: normal; }
+.value-strip { padding-top: 22px; }
+
 @media (max-width: 760px) {
+  .home-hero {
+    margin: 0 -4px;
+    padding: 25px 21px 22px;
+    border-radius: 23px;
+  }
+  .home-hero:after { right: -145px; bottom: -52px; }
+  .home-hero .hero-art { min-height: 235px; }
+  .home-hero .hero-logo { width: min(78%, 290px); }
+  .hero-proof { gap: 5px; font-size: 11px; }
+  .hero-copy:after { display: none; }
   .brand-mark { width: 40px; height: 36px; }
   .home-hero { gap: 16px; }
   .hero-copy:after { margin-top: 18px; }
