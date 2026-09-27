@@ -2,7 +2,9 @@
 
 ## Loose lines, shared rhythm
 
-Use hand-drawn lines as a visual thread through the Good Company journey. They begin loose and expressive, then become easier to follow as the trip takes shape. In group moments, individual lines can meet at a practical shared anchor—like lunch—then continue on their own paths.
+Explore hand-drawn lines as a visual thread through the Good Company journey. They can begin loose and expressive, then become easier to follow as the trip takes shape. In group moments, individual lines can meet at a practical shared anchor—like lunch—then continue on their own paths.
+
+Treat the brief as a design language, not a page-by-page template. Keep its warm paper, ink, coral and teal, editorial type, two-card identity, and hand-drawn linework recognizable, while varying the layout, amount of color, illustration, and use of open space to suit each moment. The motif should add meaning where it helps rather than appear on every screen by default.
 
 The idea is to show that the conversation can become clearer while each person keeps their own way of traveling. The lines should not imply that everyone needs to agree, that a group has passed a compatibility test, or that one person is the outlier.
 
