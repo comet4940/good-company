@@ -12,7 +12,7 @@ The idea is to show that the conversation can become clearer while each person k
 
 ### Where it can show up
 
-- **Homepage:** one lively, imperfect underline or connecting stroke introduces the visual language.
+- **Homepage:** use the supplied mark in the header and let the day/night archetype cards carry the hero energy. A deep ink field, warm card surfaces, and coral emphasis can make the first screen feel vivid and editorial. The crossed group-rhythm diagram is an illustrative specimen for the group-rhythm moment; it is not homepage artwork.
 - **Trip Check:** a short line can move with assessment progress, gaining continuity without turning into a score or result meter.
 - **Personal travel type:** the line can loop around or connect to the day/night card while keeping the individual's result distinct.
 - **Group rhythm:** equally weighted coral, teal, and blue-hour paths can meet at an optional shared moment, then diverge again.
@@ -24,6 +24,7 @@ The idea is to show that the conversation can become clearer while each person k
 - Keep every person's line equally weighted. Avoid red/green compatibility cues, winner paths, and visual labels for who is difficult.
 - Leave room for different starts, solo time, and paths that do not meet at every moment.
 - Use motion gently and respect reduced-motion settings. The visual should still make sense as a static illustration.
-- Treat the sample rhythm as illustrative, not a prediction or itinerary.
+- Treat sample archetypes as illustrative until scoring categories are calibrated. Treat the sample rhythm as illustrative, not a prediction or itinerary.
+- Avoid adjacent near-white surfaces as the page foundation. Use Soft Sand or deep ink as the page ground, with Warm Paper as a clearly distinct card surface.
 
 The reference moments are the crossing lines that meet at “meet for lunch,” the loose connecting stroke, and the Trip Check progress underline supplied in the design references.
