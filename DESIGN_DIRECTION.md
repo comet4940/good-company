@@ -12,7 +12,7 @@ The idea is to show that the conversation can become clearer while each person k
 
 ### Where it can show up
 
-- **Homepage:** lead with the familiar “I’m easy either way” tension, then show illustrative day/night travel types and a concrete example of the group conversation they can unlock. Use Soft Sand as the page ground, coral and teal archetype cards for energy, and a deep ink section to frame the group-flow example. The crossed group-rhythm diagram is an illustrative specimen, not homepage artwork.
+- **Homepage:** use the editorial two-column composition, the supplied two-card mark as the hero art, and the “Different ways to travel. One good way to begin.” headline. The day card should read taller than the night card, as in the supplied mark. Start the journey with a visibly loose underline; let connecting strokes become calmer in the group-flow example and later steps. Keep the group conversation and three-step explanation below the hero.
 - **Trip Check:** a short line can move with assessment progress, gaining continuity without turning into a score or result meter.
 - **Personal travel type:** the line can loop around or connect to the day/night card while keeping the individual's result distinct.
 - **Group rhythm:** equally weighted coral, teal, and blue-hour paths can meet at an optional shared moment, then diverge again.
