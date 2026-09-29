@@ -629,3 +629,28 @@ body.home-active .home-nav { display:flex; }
   .home-active .top-action { padding:0 12px; }
   .home-hero h1 { font-size:clamp(41px,10.3vw,50px); }
 }
+.hero-brand-art { width:100%; max-width:700px; height:clamp(490px,42vw,650px); justify-self:end; display:flex; align-items:center; justify-content:center; }
+.type-sample-card { flex:none; position:relative; display:flex; flex-direction:column; color:var(--ink); padding:clamp(16px,2vw,27px); border-radius:24px; box-shadow:0 20px 42px rgba(2,26,37,.15); }
+.type-sample-day { z-index:2; width:51%; height:83%; aspect-ratio:auto; background:var(--coral); transform:translateY(-3%) rotate(-5deg); }
+.type-sample-night { z-index:1; width:57%; height:62%; aspect-ratio:auto; margin-left:-7%; background:var(--teal); transform:translateY(7%) rotate(4deg); }
+.sample-card-head { display:flex; justify-content:space-between; gap:7px; color:var(--ink); font-size:clamp(7px,.65vw,10px); font-weight:800; letter-spacing:.1em; white-space:nowrap; }
+.type-sample-card .card-illustration { display:block; width:clamp(50px,5.4vw,82px); height:clamp(49px,5vw,76px); margin: auto 0 8px 4%; }
+.sample-card-label { color:rgba(2,26,37,.78); font-size:clamp(9px,.85vw,13px); }
+.type-sample-card h2 { margin:5px 0 7px; color:var(--ink); font:italic 500 clamp(24px,2.5vw,39px)/1.02 var(--serif); letter-spacing:-.04em; }
+.type-sample-card p { margin:0; color:var(--ink); font-size:clamp(10px,1vw,15px); line-height:1.45; }
+.sample-card-foot { display:flex; justify-content:space-between; align-items:center; gap:5px; margin-top:auto; padding-top:10px; border-top:1px solid rgba(2,26,37,.3); color:var(--ink); font-size:clamp(7px,.7vw,10px); font-weight:700; white-space:nowrap; }
+.type-sample-night .card-illustration { margin-top:auto; margin-bottom:8px; }
+.type-sample-night h2 { font-size:clamp(22px,2.25vw,34px); }
+@media(max-width:760px) {
+  .hero-brand-art { justify-self:center; max-width:600px; height:clamp(350px,90vw,510px); }
+  .type-sample-card { padding:clamp(12px,3vw,21px); border-radius:19px; }
+  .type-sample-day { height:84%; }
+  .type-sample-night { height:64%; }
+  .sample-card-head { font-size:clamp(6px,1.4vw,9px); }
+  .type-sample-card .card-illustration { width:clamp(42px,10vw,68px); height:clamp(40px,9vw,63px); }
+  .sample-card-label { font-size:clamp(8px,1.8vw,11px); }
+  .type-sample-card h2 { font-size:clamp(19px,4.5vw,30px); }
+  .type-sample-night h2 { font-size:clamp(18px,4vw,27px); }
+  .type-sample-card p { font-size:clamp(8px,1.8vw,12px); }
+  .sample-card-foot { font-size:clamp(6px,1.3vw,8px); }
+}
