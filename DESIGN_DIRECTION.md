@@ -6,6 +6,8 @@ Explore hand-drawn lines as a visual thread through the Good Company journey. Th
 
 Treat the brief as a design language, not a page-by-page template. Keep its warm paper, ink, coral and teal, editorial type, two-card identity, and hand-drawn linework recognizable, while varying the layout, amount of color, illustration, and use of open space to suit each moment. The motif should add meaning where it helps rather than appear on every screen by default.
 
+On desktop, favor a broad, full-bleed canvas with expressive color and illustration occupying the available viewport. Avoid narrow centered page columns that make the surrounding space feel empty; reserve controlled line lengths for reading rather than constraining the whole experience.
+
 The idea is to show that the conversation can become clearer while each person keeps their own way of traveling. The lines should not imply that everyone needs to agree, that a group has passed a compatibility test, or that one person is the outlier.
 
 ### Where it can show up
